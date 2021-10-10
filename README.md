@@ -8,9 +8,14 @@
 
 Heyo! How's it going?
 
-I'm a rookie Web Developer on the horizon of the industry trying to find my place in this vast ocean of opportunities. 
-As a High School student, I have hobbies outside Web Development which include gaming, watching movies, hanging out with friends and watching science documentaries.
-For me Web Development is a passion and I love the awesome community that I get with it.
+I'm a rookie Web Developer on the horizon of the industry trying to find my place in this vast ocean of opportunities.
+As a High School student, I have hobbies outside Web Development which include gaming, watching movies, hanging out with
+friends and watching science documentaries. For me Web Development is a passion and I love the awesome community that I
+get with it.
+
+## Working On
+
+[iDevelopGizmos](https://github.com/iDevelopGizoms/idevelopgizmos.github.io/)
 
 ## Connect With Me
 
